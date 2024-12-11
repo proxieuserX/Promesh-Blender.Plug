@@ -1,2 +1,6 @@
-# Promesh-Blender.Plug
-PROMESH blender addon
+MESHPRO Rigging tools is a Blender Addon to do simple rigging actions faster. While Blender has some great auto rigging Addons, such as Rigify and Auto-Rig Pro, there aren't many to assist creating your own custom rigs. I made this Addon for that reason. With it you can easily make a bone matching the world axis with one click, rig multiple objects at once each with their own controllers, add a custom object to multiple bones at once from a library of object shapes and more!
+
+Compatible with Blender versions 2.8-3.6. Not compatible versions 4.0 onwards, will be updated in the future.
+
+
+Some of the tools are very specific to my workflow when rigging in Blender. However, my workflow is primarily based on Pierrick Picaut's tutorial course "The art of effective rigging in Blender", so anyone who follows the workflow he teaches should understand the bone hierarchies and naming conventions that the Addon creates. I would like to make this Addon useful to as many riggers and animators as possible, so if you have suggestions on how the Addon could assist your workflow better, please let me know and I will try to implement it. I am still relatively new to Python, Addon development and GitHub especially, so please be patient with me if it takes me some time to figure things out. If anyone has edit suggestions to the python files to make it more efficient it would be greatly appreciated.
